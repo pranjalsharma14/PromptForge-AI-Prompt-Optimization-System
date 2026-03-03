@@ -87,8 +87,8 @@ Secure Your Spot & Future-Proof Your Career Today
 
 
 
-EVALUATION VERSION - 1
-(What Worked Well):
+## EVALUATION VERSION - 1
+### What Worked Well:
 
 1. The introduction is clear and beginner-friendly. It immediately explains what the course is about without using complicated terms.
 
@@ -96,7 +96,7 @@ EVALUATION VERSION - 1
 
 3. The emotional hook about AI replacing people creates urgency, which is effective.
 
-(What Feels Slightly Weak):
+### What Feels Slightly Weak:
 
 1. The tone feels a little too polished and generic in some places. It sounds like typical AI marketing copy rather than something written by a real instructor.
 
@@ -104,7 +104,7 @@ EVALUATION VERSION - 1
 
 3. The CTA at the end is clear but not very compelling. It could feel more urgent or specific.
 
-Overall Rating:
+### Overall Rating:
 
 1. Content Quality: 8/10
 2. Human Tone: 6.5/10
