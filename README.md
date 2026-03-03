@@ -1,10 +1,13 @@
 PromptForge 2.0
 
+
 🚀 Overview:
+
 PromptForge is a structured AI Prompt Optimization & Evaluation Framework designed to improve the quality of AI-generated business content.
 This project explores how prompt structure impacts output clarity, depth, SEO performance, and marketing effectiveness.
 
 🎯 Problem Statement:
+
 Many businesses use AI tools but struggle with low-quality outputs due to vague or poorly structured prompts.
 This project aims to design a reusable prompt framework that:
 1. Converts business goals into structured prompts
