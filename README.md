@@ -6,17 +6,17 @@ This project explores how prompt structure impacts output clarity, depth, SEO pe
 🎯 Problem Statement:
 Many businesses use AI tools but struggle with low-quality outputs due to vague or poorly structured prompts.
 This project aims to design a reusable prompt framework that:
-Converts business goals into structured prompts
-Evaluates AI outputs using scoring criteria
-Optimizes prompts iteratively
+1. Converts business goals into structured prompts
+2. Evaluates AI outputs using scoring criteria
+3. Optimizes prompts iteratively
 
 👤 Target Users:
-Digital marketers
-Content creators
-AI course creators
-Small businesses using AI tools
+1. Digital marketers
+2. Content creators
+3. AI course creators
+4. Small businesses using AI tools
 
 🛠 Tools Used:
-OpenAI
-Structured Prompt Engineering
-Manual Evaluation Framework
+1. OpenAI
+2. Structured Prompt Engineering
+3.Manual Evaluation Framework
