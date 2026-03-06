@@ -12,7 +12,7 @@ AI is everywhere right now. But for most people, it still feels confusing.
 
 You’ve probably tried ChatGPT or another AI tool… typed something in… and thought, *“Why isn’t this giving me what I want?”*
 
-That’s where prompt engineering comes in.
+That’s where prompt engineering comes in..
 
 This course is designed to help complete beginners **learn prompt engineering for beginners**, understand how generative AI works, and confidently use AI tools in real life — without needing a technical background.
 
