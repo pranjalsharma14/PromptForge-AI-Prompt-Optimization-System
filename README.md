@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ===================================================== -->
 <!-- CUSTOM PROJECT BANNER -->
 <!-- ===================================================== -->
@@ -83,7 +83,7 @@ PromptForge solves this by introducing a **structured prompt optimization workfl
 
 # 🏗 PromptForge Architecture
 
-```
+
 
 User Goal
 │
@@ -102,7 +102,7 @@ Optimization Layer
 ▼
 Strategic AI Output
 
-```
+
 
 ---
 
@@ -111,7 +111,7 @@ Strategic AI Output
 ```
 
 ```
-    🎯 Business Goal
+   🎯 Business Goal
           │
           ▼
  🧠 Structured Prompt Design
