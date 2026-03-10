@@ -1,29 +1,48 @@
-<!-- Animated Header -->
+```markdown
+<!-- ===================================================== -->
+<!-- CUSTOM PROJECT BANNER -->
+<!-- ===================================================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=PromptForge+2.0;AI+Prompt+Optimization+Framework;Transform+Generic+AI+Outputs+Into+Strategic+Content;Built+by+Pranjal+Sharma" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=200&section=header&text=PromptForge%202.0&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<!-- ===================================================== -->
+<!-- ANIMATED HEADER -->
+<!-- ===================================================== -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=AI+Prompt+Optimization+Framework;Transform+Generic+AI+Outputs+Into+Strategic+Content;Prompt+Engineering+Workflow+System;Built+by+Pranjal+Sharma"/>
 </p>
 
 ---
 
 # 🚀 PromptForge 2.0
 
-### AI Prompt Optimization & Evaluation Framework
+### 🧠 AI Prompt Optimization & Evaluation Framework
+
+PromptForge is a **structured prompt engineering framework** designed to improve the **quality, clarity, and effectiveness of AI-generated outputs**.
+
+Instead of relying on **single prompts**, PromptForge introduces a **systematic optimization workflow** that transforms generic responses into **high-performing strategic content**.
+
+---
+
+# 🏆 Project Badges
 
 <p align="center">
 
 ![AI](https://img.shields.io/badge/AI-Prompt%20Engineering-blue)
-![Framework](https://img.shields.io/badge/Framework-Optimization-green)
-![Marketing](https://img.shields.io/badge/Focus-Business%20Content-orange)
+![Framework](https://img.shields.io/badge/Framework-PromptForge-green)
+![Focus](https://img.shields.io/badge/Focus-AI%20Optimization-orange)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![Status](https://img.shields.io/badge/Project-Active-success)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-success)
+![Version](https://img.shields.io/badge/Version-2.0-purple)
 
 </p>
 
 ---
 
-## 👀 Visitor Counter
+# 👀 Repository Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pranjalsharma14&label=Repository+Views&color=blue&style=for-the-badge"/>
@@ -35,9 +54,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight"/>
 
 </p>
 
@@ -45,128 +64,282 @@
 
 # 🧠 What is PromptForge?
 
-PromptForge is a **structured AI prompt optimization framework** designed to improve the quality, clarity, and conversion performance of AI-generated business content.
+PromptForge is a **prompt engineering optimization framework** designed to systematically improve AI outputs.
 
-Instead of relying on **one-shot AI outputs**, PromptForge introduces an **iterative optimization loop**.
+Many AI users struggle with:
 
+❌ generic responses  
+❌ weak marketing messaging  
+❌ poor SEO structure  
+❌ inconsistent tone  
 
-Generate → Evaluate → Refine → Compare → Optimize
+The issue is **not the AI model**.
 
+The real issue is **poor prompt design**.
 
-This process transforms **generic AI responses into strategic, high-performing business content.**
+PromptForge solves this by introducing a **structured prompt optimization workflow**.
 
 ---
 
-# 🎯 Problem Statement
+# 🏗 PromptForge Architecture
 
-Many professionals using AI tools experience:
+```
 
-❌ Generic outputs  
-❌ Weak marketing messaging  
-❌ Poor SEO alignment  
-❌ Lack of authority signals  
-❌ Inconsistent tone  
+User Goal
+│
+▼
+Prompt Design Layer
+│
+▼
+AI Generation Layer
+│
+▼
+Evaluation Layer
+│
+▼
+Optimization Layer
+│
+▼
+Strategic AI Output
 
-The problem is **not AI capability.**
-
-The real issue is **unstructured prompting**.
-
-PromptForge solves this by introducing a **systematic prompt engineering framework.**
+```
 
 ---
 
 # ⚙️ PromptForge Optimization Workflow
 
+```
 
-Business Goal
-│
-▼
-Structured Prompt Design
-│
-▼
-AI Content Generation
-│
-▼
-Output Evaluation
-│
-▼
-Prompt Refinement
-│
-▼
-Optimized Output
+```
+    🎯 Business Goal
+          │
+          ▼
+ 🧠 Structured Prompt Design
+          │
+          ▼
+    🤖 AI Generation
+          │
+          ▼
+    📊 Output Evaluation
+          │
+          ▼
+    🔧 Prompt Refinement
+          │
+          ▼
+    🚀 Optimized Output
+```
 
+```
 
 ---
 
-# 🔁 Framework Process
+# 🔁 Prompt Optimization Loop
 
-## Step 1 — Structured Prompt Design
+```
+
+Generate
+↓
+Evaluate
+↓
+Refine
+↓
+Compare
+↓
+Optimize
+
+```
+
+---
+
+# 📊 Prompt Optimization Curve
+
+```
+
+Output Quality
+│
+│                 ● Version 3 (Optimized)
+│             ●
+│         ●
+│      ● Version 2
+│   ●
+│● Version 1 (Basic Prompt)
+│
+└──────────────────────────
+Iterations
+
+```
+
+---
+
+# 📊 Prompt Benchmarking
+
+| Prompt Type | Clarity | SEO | Conversion | Overall Quality |
+|-------------|--------|------|------------|----------------|
+| Basic Prompt | 5/10 | 4/10 | 4/10 | 4.3 |
+| Structured Prompt | 7/10 | 7/10 | 6/10 | 6.7 |
+| PromptForge Optimized | 9/10 | 8/10 | 9/10 | 8.7 |
+
+This demonstrates how **structured prompts dramatically improve AI outputs**.
+
+---
+
+# 🧩 Framework Modules
+
+## 1️⃣ Prompt Structuring
 
 Define:
 
-• Role instruction  
-• Output constraints  
-• SEO targets  
-• Tone control  
-• Conversion objectives  
+• role  
+• objective  
+• audience  
+• constraints  
+• tone  
+• SEO keywords  
 
 Example:
 
+```
 
 Role: Senior Marketing Strategist
-Goal: Write a high-conversion landing page
+Goal: Write a high-converting landing page
 Tone: Professional and persuasive
-SEO keyword: AI prompt engineering
+Keyword: AI Prompt Engineering
 
+```
 
 ---
 
-## Step 2 — Output Evaluation
+## 2️⃣ AI Output Generation
 
-Each output is evaluated using a **structured scoring framework**.
+Execute the structured prompt using:
+
+• ChatGPT  
+• Claude  
+• Gemini  
+
+This generates the **initial AI output**.
+
+---
+
+## 3️⃣ Output Evaluation Framework
 
 | Criteria | Purpose |
 |--------|--------|
-| Human Tone | Natural and engaging language |
-| SEO Integration | Keyword optimization |
-| Authority Signals | Expertise and credibility |
-| Specificity | Clarity and detail |
-| Conversion Psychology | Persuasive messaging |
+| 🧠 Clarity | Message readability |
+| 🎯 Specificity | Detail depth |
+| ⭐ Authority | Credibility |
+| 🔍 SEO | Keyword integration |
+| 💰 Conversion | Persuasive strength |
 
 ---
 
-## Step 3 — Iterative Optimization
+## 4️⃣ Prompt Refinement
 
-Weak areas are identified and improved.
+Improve weak areas by:
 
-Examples:
-
-• Improve specificity  
-• Strengthen persuasion  
-• Add credibility signals  
-• Improve structure  
-
-Each version becomes **better than the previous one.**
+• adding constraints  
+• increasing context  
+• refining instructions  
+• improving tone  
 
 ---
 
-## Step 4 — Comparative Analysis
+## 5️⃣ Comparative Analysis
 
-Outputs are compared across versions.
+```
 
+Version 1 → Generic Output
 
-Version 1 → Generic AI Output
+Version 2 → Improved Structure
 
-Version 2 → Humanized + SEO Optimized
+Version 3 → Strategic Optimized Output
 
-Version 3 → High-Conversion Strategic Version
+```
 
+---
+
+# 🧪 Example Prompt
+
+```
+
+Role: Senior Social Media Strategist
+
+Objective:
+Generate a high-engagement LinkedIn post.
+
+Product:
+AI Resume Builder
+
+Audience:
+College Students
+
+Output Format:
+Hook
+Problem
+Solution
+CTA
+Hashtags
+
+```
+
+---
+
+# 📊 Case Study — Before vs After
+
+### ❌ Basic Prompt
+
+```
+
+Write a post about AI resume builders.
+
+```
+
+Output → Generic description with weak engagement.
+
+---
+
+### ✅ Optimized Prompt
+
+```
+
+Role: LinkedIn Marketing Strategist
+
+Goal:
+Create a high-engagement LinkedIn post promoting an AI resume builder.
+
+Audience:
+College students preparing for job applications.
+
+Output Structure:
+Hook
+Problem
+Solution
+Call To Action
+Hashtags
+
+````
+
+Output → Structured persuasive post with strong CTA.
+
+---
+
+# 🧪 Prompt Evaluation Scorecard
+
+| Criteria | Score |
+|--------|------|
+| Clarity | 8/10 |
+| Specificity | 9/10 |
+| Authority | 7/10 |
+| SEO | 8/10 |
+| Conversion | 9/10 |
+
+Total Score → **41/50**
 
 ---
 
 # 📂 Repository Structure
 
-
+```bash
 PromptForge-2.0
 │
 ├── landing-page-v1.md
@@ -177,70 +350,53 @@ PromptForge-2.0
 ├── output-analysis.md
 │
 └── README.md
-
-
-This repository demonstrates the **complete PromptForge optimization workflow.**
+````
 
 ---
 
-# 👤 Target Users
+# 👥 Target Users
 
 PromptForge is designed for:
 
-• Digital marketers  
-• Content strategists  
-• Freelancers  
-• AI course creators  
-• Startup founders  
-• AI builders  
+• AI prompt engineers
+• digital marketers
+• content creators
+• startup founders
+• freelancers
+• AI builders
 
-Anyone who wants **higher quality outputs from AI tools.**
+Anyone who wants **better AI-generated content**.
 
 ---
 
-# 🛠 Tools & Methods Used
+# 🛠 Tools & Concepts Used
 
-This framework combines:
-
-• Generative AI  
-• Structured Prompt Engineering  
-• Constraint-Based Prompting  
-• Conversion Psychology  
-• SEO Content Strategy  
-• Manual Evaluation Framework  
+• Prompt Engineering
+• Generative AI
+• Conversion Copywriting
+• SEO Content Strategy
+• Human-AI Collaboration
 
 ---
 
 # 🧠 Skills Demonstrated
 
-This project demonstrates expertise in:
-
-• Prompt Engineering  
-• AI Output Optimization  
-• Conversion Copywriting  
-• SEO Content Structuring  
-• Strategic Documentation  
-• AI Workflow Design  
+• Prompt Engineering
+• AI Output Optimization
+• Conversion Copywriting
+• AI Workflow Design
+• Technical Documentation
 
 ---
 
-# 📊 Key Insight
+# 📈 Impact
 
-> AI output quality is directly proportional to **prompt structure and evaluation depth.**
+PromptForge helps:
 
-PromptForge proves that **iterative prompt optimization consistently outperforms single-generation AI outputs.**
-
----
-
-# 📈 Impact of the Framework
-
-Using PromptForge can help:
-
-✔ Improve AI-generated content quality  
-✔ Increase marketing conversions  
-✔ Produce SEO-optimized content  
-✔ Maintain consistent brand tone  
-✔ Build authority-driven messaging  
+✔ improve AI output quality
+✔ increase marketing conversions
+✔ produce SEO optimized content
+✔ maintain consistent brand tone
 
 ---
 
@@ -248,9 +404,9 @@ Using PromptForge can help:
 
 If you find this framework useful:
 
-⭐ Star the repository  
-🍴 Fork the repository  
-📢 Share with other AI builders  
+⭐ Star the repository
+🍴 Fork the repository
+📢 Share it with other AI builders
 
 ---
 
@@ -258,23 +414,20 @@ If you find this framework useful:
 
 **Pranjal Sharma**
 
-AI Prompt Engineering  
-Content Strategy  
+AI Prompt Engineering
+Content Strategy
 AI Workflow Design
 
-GitHub:
-
+GitHub
 https://github.com/pranjalsharma14
 
 ---
 
-# 📝 License
+# 📜 License
 
-This project is licensed under the **MIT License**.
+MIT License
 
-You are free to:
+You are free to use, modify, and distribute this framework.
 
-• Use  
-• Modify  
-• Share  
-• Build upon this framework
+```
+```
